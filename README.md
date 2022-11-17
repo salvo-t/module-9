@@ -1,7 +1,39 @@
-# module-9
 
-In this module I created a node js script where you can make a README.md file with only using node index.js in the console. After that you will be asked a series of questions in the console that you can type to answer, then your README.md will be genereated!
+# module 9
 
-<img width="951" alt="screen1" src="https://user-images.githubusercontent.com/112913338/202358127-bf61bccd-373c-4602-a32b-df2d354cc944.png">
+## license
+mit
 
-This is the final product.
+## table 
+- [Discription of project](#discription)
+- [Installation](#installation-instructions)
+- [Usage information](#usage-information)
+- [Contribution information](#contribution-information)
+- [Test intruction](#test-instructions)
+- [lisence](#license)
+- [github username](#github-username)
+- [email](#email)
+
+## Discription
+its a node js project
+
+## Installation-instructions
+install with github
+
+## Usage-information
+for school
+
+## Contribution-information
+none
+
+## test-instructions
+none
+
+
+## Github-username
+GitUser12
+
+## email
+GitUser12@gmail.com
+
+  
