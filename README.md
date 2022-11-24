@@ -36,4 +36,7 @@ GitUser12
 ## email
 GitUser12@gmail.com
 
+video of a tutorial of how to use this application
+https://drive.google.com/file/d/1JA4j3oBPGZcp9hLsFGAZaBigzd1wNb-R/view
+
   
